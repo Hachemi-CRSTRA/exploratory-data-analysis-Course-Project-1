@@ -1,6 +1,5 @@
 # exploratory-data-analysis-Course-Project-1
-@@ -1,4 +1,114 @@
-ExData_Plotting1
+
 ================
 ## Introduction
 
